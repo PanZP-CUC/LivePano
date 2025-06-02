@@ -3,4 +3,12 @@ This repository contains supplementary experimental materials for our research p
 
 These supplementary figures are intended to aid in understanding specific motivation presented in our main research work.
 
-![video-front](./images/1-2-Front/1-2-Front-tile51.png)
+![](./images/heatmap/1-2-Front/bitrate-0/1-2-Front-0017-0.png)
+
+![](./images/heatmap/1-2-Front/bitrate-0/1-2-Front-0018-0.png)
+
+![](./images/heatmap/1-2-Front/bitrate-0/1-2-Front-0019-0.png)
+
+![](./images/heatmap/1-2-Front/bitrate-0/1-2-Front-0020-0.png)
+
+![](./images/heatmap/1-2-Front/bitrate-0/1-2-Front-0021-0.png)
